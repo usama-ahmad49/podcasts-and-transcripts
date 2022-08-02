@@ -6,3 +6,4 @@ here are all the scripts that can download audio podcasts and their transcripts
 3. https://icslawyer.com/podcasts/ icslawyer
 4. https://www.thisiscapitalism.com/ capitalism
 5. www.ucsusa.org ucsusa
+6. https://ilsr.org/local-energy-rules-podcast-homepage/ ilsr
