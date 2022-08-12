@@ -10,3 +10,4 @@ here are all the scripts that can download audio podcasts and their transcripts
 7. https://aboverubies.org/ aboverubies
 8. https://britannica.com/ britannica
 9. https://play.prx.org/ gamzshow
+10. https://www.insidehighered.com/ insidehighered
